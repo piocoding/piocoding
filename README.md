@@ -1,4 +1,12 @@
-## Hi there 👋
+# Introduction
+
+Hi! I'm Sofia, a student in the Software Maintenance and Evolution course.
+I expect to learn how to navigate, modify, and modernize large, unfamiliar legacy codebases without breaking existing functionality.
+
+- **Fun Fact**: I love playing the piano in my free time.
+- **Course expectations**: To master techniques like refactoring, change impact analysis, and technical debt management to keep long-running software healthy and adaptable.
+
+![My Image](me.jpg)
 
 <!--
 **piocoding/piocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
